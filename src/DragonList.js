@@ -1,7 +1,6 @@
 import Dragons from './Dragons';
 
 export default function DragonList(props){
-  console.log(props);
   return <div className="dragon-list">
     <h2>List of Dragons, pre 1900&apos;s</h2>
     <ul>
