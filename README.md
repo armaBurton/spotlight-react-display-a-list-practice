@@ -6,7 +6,7 @@
   - A a stretch goal, feel free to make all of them arrays of deep objects (with array and nested object properties).
 2. Start with the list practice template repo (Links to an external site.).
 3. Repeat the following process 4 times, with 4 different domains, all in the same template:
-  1. Come up with a domain for this data (i.e. 'dogs' or 'candies'). Let's assume you picked 'candies'.
+  - 1. Come up with a domain for this data (i.e. 'dogs' or 'candies'). Let's assume you picked 'candies'.
   2.  Rename array-one.js to candies-data.js or whatever. In that data file, create an array of at least 3 items for that domain. If they are objects, the objects in the array should all have the same properties.
   3. Rename ListOne.js to CandiesList.js to contain your CandiesList component.
   4. Rename ItemOne.js to CandyItem.js to contain your CandyItem component.
