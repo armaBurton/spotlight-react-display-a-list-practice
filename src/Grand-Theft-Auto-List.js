@@ -1,14 +1,14 @@
-export const GTAList = [
+export const grandTheftAutoList = [
   {
     title: `Grand Theft Auto`,
     year: 1997,
     developer: `DMA Design`,
     platforms:{
-      consol: [`PlayStation 1`],
+      console: [`PlayStation 1`],
       computer: [`Windows`, `MS-DOS`],
       handheld: [`Game Boy Color`],
-      mobile: [],
-      other: []
+      mobile: [`na`],
+      other: [`na`]
     },
     universe: `2D`
   },
@@ -17,11 +17,11 @@ export const GTAList = [
     year: 1999,
     developer: `DMA Design`,
     platforms:{
-      consol: [`PlayStation 1`, `Dreamcast`],
+      console: [`PlayStation 1`, `Dreamcast`],
       computer: [`Windows`],
       handheld: [`Game Boy Color`],
-      mobile: [],
-      other: []
+      mobile: [`na`],
+      other: [`na`]
     },
     universe: `2D`
   },
@@ -30,11 +30,11 @@ export const GTAList = [
     year: 2001,
     developer: `Rockstar North`,
     platforms:{
-      consol: [`PlayStation 2`, `Xbox`],
+      console: [`PlayStation 2`, `Xbox`],
       computer: [`Windows`, `OS X`],
-      handheld: [],
+      handheld: [`na`],
       mobile: [`Android`, `iOS`, `Fire OS`],
-      other: []
+      other: [`na`]
     },
     universe: `3D`
   },
@@ -43,11 +43,11 @@ export const GTAList = [
     year: 2001,
     developer: `Rockstar North`,
     platforms:{
-      consol: [`PlayStation 2`, `Xbox`],
+      console: [`PlayStation 2`, `Xbox`],
       computer: [`Windows`, `OS X`],
-      handheld: [],
+      handheld: [`na`],
       mobile: [`Android`, `iOS`, `Fire OS`],
-      other: []
+      other: [`na`]
     },
     universe: `3D`
   },
@@ -56,11 +56,11 @@ export const GTAList = [
     year: 2004,
     developer: `Rockstar North`,
     platforms:{
-      consol: [`PlayStation 2`, `PlayStation 3`, `Xbox`, `Xbox 360`],
+      console: [`PlayStation 2`, `PlayStation 3`, `Xbox`, `Xbox 360`],
       computer: [`Windows`, `OS X`],
-      handheld: [],
+      handheld: [`na`],
       mobile: [`Android`, `iOS`, `Fire OS`, `WP`],
-      other: []
+      other: [`na`]
     },
     universe: `3D`
   },
@@ -69,11 +69,11 @@ export const GTAList = [
     year: 2004,
     developer: `Rockstar North`,
     platforms:{
-      consol: [`PlayStation 3`, `Xbox 360`],
+      console: [`PlayStation 3`, `Xbox 360`],
       computer: [`Windows`],
-      handheld: [],
-      mobile: [],
-      other: []
+      handheld: [`na`],
+      mobile: [`na`],
+      other: [`na`]
     },
     universe: `HD`
   },
@@ -82,11 +82,11 @@ export const GTAList = [
     year: 2004,
     developer: `Rockstar North`,
     platforms:{
-      consol: [`PlayStation 3`, `PlayStation 4`, `PlayStation 5`, `Xbox 360`, `Xbox One`, `Xbox Series X/S`],
+      console: [`PlayStation 3`, `PlayStation 4`, `PlayStation 5`, `Xbox 360`, `Xbox One`, `Xbox Series X/S`],
       computer: [`Windows`],
-      handheld: [],
-      mobile: [],
-      other: []
+      handheld: [`na`],
+      mobile: [`na`],
+      other: [`na`]
     },
     universe: `HD`
   },
