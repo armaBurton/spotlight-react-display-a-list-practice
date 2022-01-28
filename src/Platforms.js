@@ -5,7 +5,6 @@ import Mobile from './Mobile';
 import Other from './Other';
 
 export default function Platforms(props){
-  console.log(props);
   return <>
     <h5>Platforms:</h5>
   
