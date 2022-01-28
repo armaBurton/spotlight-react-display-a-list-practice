@@ -5,13 +5,13 @@ export default function WhoEpisodes(props){
     <li>
       <h3>{ props.doctor.doctor }</h3>
       <p>episodes: {props.doctor.episodes }</p>
-      <p>Seasons{
+      <p>Seasons:</p>{
         <ul>
           { 
             props.doctor.seasons.map((season, i) => <WhoSeasons key={`${season}${i}`} season={season} />)
           }
         </ul>
-      }</p>
+      }
       <p>Average Viewers: {props.doctor.episodes}</p>
     </li>
   );
